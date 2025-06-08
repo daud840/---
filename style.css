@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+header{
+    background-image: linear-gradient(to right, #BBE7FA,#EB722E);
+    padding-top:20px;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+div{
+    color: royalblue;
+    adding: 20px;
+    width: 100px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: royalblue;
+    position: fixed;
+    top: 360px; 
+    right: 25px;
+}
